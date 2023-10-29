@@ -1,2 +1,2 @@
-# itgs_hw
-Educational mini-projects
+# itgs_hw5_flexbox
+Educational flexbox mini-project
